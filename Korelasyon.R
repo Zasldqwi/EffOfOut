@@ -25,3 +25,5 @@ for (i in 1:N){
 #analitik yolla kestirimi
 mse <- sum((rhohat-0.7)^2/N)
 mse
+
+#değişiklik
